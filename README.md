@@ -13,15 +13,15 @@ Xây dựng website bán laptop
 - ExpressJS
 - MongoDB
 ## Nội dung công việc
-Tìm kiếm tài liệu.
-Quản lý danh mục.
-Phát triển giao diện cho trang sản phẩm.
-Phân tích cơ sở dữ liệu
-Tích hợp backend.
-Quản lý sản phẩm
-Trang giỏ hàng.
-Kiểm thử hệ thống.
-Viết báo cáo và slide thuyết trình.
+- Tìm kiếm tài liệu.
+- Quản lý danh mục.
+- Phát triển giao diện cho trang sản phẩm.
+- Phân tích cơ sở dữ liệu
+- Tích hợp backend.
+- Quản lý sản phẩm
+- Trang giỏ hàng.
+- Kiểm thử hệ thống.
+- Viết báo cáo và slide thuyết trình.
 
 ## Cấu trúc dự án
 Hệ thống sử dụng kiến trúc Client-Server với sự phân tách rõ ràng giữa frontend và backend.
